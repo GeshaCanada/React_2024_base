@@ -3,7 +3,7 @@
 bash => npm create vite@latest
 
 Enter name of project  - vite-react (example)
-Select frame work - React
+Select frame work - React, then
 Select JavaScript 
 
 then go to folder project (vite-react) and 
